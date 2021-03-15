@@ -1,6 +1,6 @@
 # Personalized-Job-Recommendation
 
-##Summary
+## Summary
 1: Designed and implemented a web application to search, apply and get recommended about nearby job positions
 
 2: Designed and implemented the front-end UI interface using HTML, CSS, JavaScript and AJAX
